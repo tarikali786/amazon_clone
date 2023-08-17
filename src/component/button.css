@@ -1,0 +1,9 @@
+.button_container {
+  width: 100%;
+  border-radius: 4px;
+  background: #f0c14b;
+  padding: 4px 6px;
+  margin-top: 12px;
+  color: black;
+  border-color: #a88734 #9c7e31 #846a29;
+}

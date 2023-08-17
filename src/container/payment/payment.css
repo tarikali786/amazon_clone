@@ -1,0 +1,44 @@
+.payment {
+  background-color: white;
+}
+.payment__container > h1 {
+  text-align: center;
+  padding: 10px;
+  font-weight: 400;
+  background-color: rgb(234, 237, 237);
+  border-bottom: 1px solid lightgray;
+}
+
+.payment__container > h1 a {
+  text-decoration: none;
+}
+.payment__section {
+  display: flex;
+  padding: 20px;
+  margin: 0 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.payment__title {
+  flex: 0.2;
+}
+
+.payment__address,
+.payment__items,
+.payment__details {
+  flex: 0.8;
+}
+.payment__priceContainer {
+  margin-top: 16px;
+}
+.buyButton {
+  width: 29%;
+  border: 1px solid rgb(84, 84, 51);
+}
+.payment__address {
+  display: flex;
+  gap: 1.4rem;
+}
+
+/* pk_test_51NLfpWSGdaY5SfT3CFhW6bnCEMKOhbHXBqpC5Egbl8eIGXkZ4eIIyNPU0krWT0vtCVjERT5q72lPbc03p2mfMyIS00YMxJojrx */
+/* sk_test_51NLfpWSGdaY5SfT3HdX35Eb5bhVrPP1Uiqg8YhhlY5Gs5SDk60UVREjKDOfu9xmu9uBFTzq8m5uf5V3sxDCsLeM8002WtYAgX0 */
